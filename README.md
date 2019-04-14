@@ -1,0 +1,2 @@
+# AndroidShoppingList
+Android-ohjelmoinnin harjoitustehtävä.
